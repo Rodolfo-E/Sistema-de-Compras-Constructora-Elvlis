@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="biblioteca/1.- jasperreports-javaflow-4.7.1.jar"/>
+	<classpathentry kind="lib" path="biblioteca/10.- groovy-all-1.7.5.jar"/>
+	<classpathentry kind="lib" path="biblioteca/11.- iText-2.1.7.jar"/>
+	<classpathentry kind="lib" path="biblioteca/2.- jasperreports-4.7.1.jar"/>
+	<classpathentry kind="lib" path="biblioteca/3.- png-encoder-1.5.jar"/>
+	<classpathentry kind="lib" path="biblioteca/4.- poi-3.7.jar"/>
+	<classpathentry kind="lib" path="biblioteca/5.- commons-beanutils-1.8.2.jar"/>
+	<classpathentry kind="lib" path="biblioteca/6.- commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="biblioteca/7.- commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="biblioteca/8.- commons-javaflow-20060411.jar"/>
+	<classpathentry kind="lib" path="biblioteca/9.- commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="biblioteca/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="biblioteca/mysql-connector-java-8.0.16.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
